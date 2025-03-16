@@ -1,0 +1,10 @@
+.landing {
+  top: 100px;
+  text-align: center;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-style: italic;
+  position: relative;
+  margin-top: 200px;
+}

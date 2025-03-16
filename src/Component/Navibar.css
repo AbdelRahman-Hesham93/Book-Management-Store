@@ -1,0 +1,20 @@
+.nav .login {
+  background-color: black !important;
+  border-radius: 0.5rem;
+}
+.Toggle {
+  opacity: 100%;
+}
+img {
+  background-size: fill;
+  height: 60px;
+  border-radius: 10px;
+}
+
+footer {
+  margin-top: 170px;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  color: white;
+}

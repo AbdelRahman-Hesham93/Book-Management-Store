@@ -1,16 +1,10 @@
-<<<<<<< HEAD
-# Book-Management-Store
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a2c9d7a (initial commit)
+-	Full application with backend, fake dark mode for adding, deleting, editing, books with user registration and login using jwt and middleware to delete/edit or add books, using mongo db, mvc pattern
+![1](https://github.com/user-attachments/assets/81b9410b-11b7-4925-bbd0-908597e96fdc)
+![2](https://github.com/user-attachments/assets/3d072108-703c-46be-a188-182991d13201)
+![3](https://github.com/user-attachments/assets/6d5bd79c-79c1-43be-8fec-5a1be875f56a)
+![4](https://github.com/user-attachments/assets/76b8e4a4-b486-4197-a1a9-c2d373f96fd8)
+![6](https://github.com/user-attachments/assets/13467643-8a2d-43a0-81b0-4c015020eeb3)
+![7](https://github.com/user-attachments/assets/b59b0c23-7733-4fb4-8651-76346f7e84c9)
+![8](https://github.com/user-attachments/assets/d1786b35-2d4e-40b2-9a58-ee3dd2d8f8b1)
+![9](https://github.com/user-attachments/assets/045ea56c-0b98-4791-8a81-ab05820fa077)
+![10](https://github.com/user-attachments/assets/22505b3a-4952-4be6-865b-2c11a59413b4)
